@@ -1,7 +1,8 @@
 # Tiger-Compiler
 https://www.cs.princeton.edu/~appel/modern/c/
 
-[Boehm Conservative Garbage Collector](https://www.cs.princeton.edu/~appel/modern/c/software/boehm)
+[Boehm](https://www.cs.princeton.edu/~appel/modern/c/software/boehm) Conservative Garbage Collector
+
 [Flex](https://www.cs.princeton.edu/~appel/modern/c/software/flex) lexical analyzer generator
 
 [Bison](https://www.cs.princeton.edu/~appel/modern/c/software/bison) parser generator
